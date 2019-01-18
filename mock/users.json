@@ -1,0 +1,22 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "name": "王小虎1",
+      "age": 23,
+      "sex": "男",
+      "department": "公安事业部",
+      "float": 20,
+      "area": "东区"
+    },{
+      "id": 1,
+      "name": "王小虎2",
+      "age": 23,
+      "sex": "女",
+      "department": "公安事业部",
+      "float": 20,
+      "area": "东区"
+    }
+  ]
+
+}
